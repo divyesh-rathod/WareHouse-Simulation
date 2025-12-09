@@ -1,0 +1,9 @@
+{
+  "C_Cpp.dimInactiveRegions": false,
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "queue": "cpp",
+    "xutility": "cpp"
+  },
+  
+}
